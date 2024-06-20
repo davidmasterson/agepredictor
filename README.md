@@ -9,4 +9,6 @@
     <li> Press Q to quit </li>
 </ol>
 
+* Make sure your IDE has access to your webcam. WSL for VSCode does not work.
+
 Thank you ":\)"
